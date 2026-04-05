@@ -32,11 +32,13 @@ A full-stack real estate application built using **React**, **Node.js**, **Expre
 
 ## 🚀 Setup & Installation
 
-Run the following commands from the project root:
-
+Setup database:
 ```
 CREATE DATABASE realestate;
+```
 
+Run the following commands from the project root:
+```
 node initdb.cjs
 npm install
 ```
