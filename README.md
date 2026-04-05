@@ -104,12 +104,3 @@ root/
 * Use `nodemon` for automatic backend reloads during development
 * Keep environment variables (if added later) in a `.env` file
 * Ensure database credentials match your PostgreSQL setup in /db/db.cjs
-
----
-
-## 📌 Future Improvements
-
-* Authentication & authorization
-* Property filtering & search
-* Image uploads
-* Deployment (Docker / Cloud)
